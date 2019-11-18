@@ -1,0 +1,2 @@
+# Magic-clock
+algorithm course
